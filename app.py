@@ -1,4 +1,4 @@
-# Version updated directly on main branch
+# Version created by conflict-test branch
 # app.py
 def greet(name):
     return f"Hello, {name}! Welcome to Git and GitHub."
